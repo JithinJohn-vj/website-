@@ -1,0 +1,774 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.square {
+    border: 2px solid black;
+    border-color: transparent;
+    background-color: rgb(53, 123, 228);
+    margin-left: 22px;
+    width: 20px;
+    height: 20px;
+}
+
+.circle {
+    border: 2px solid black;
+    border-color: transparent;
+    background-color: rgba(219, 88, 18, 0.964);
+    margin-top: -20px;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+}
+
+.btn1 {
+    width: 70px;
+    height: 30px;
+    margin-top: 5px;
+    background-color: rgba(236, 138, 19, 0.819);
+    border-color: transparent;
+}
+
+.navbar-nav {
+    margin-left: 600px;
+}
+
+li {
+    padding-left: 30px;
+}
+
+.inp1 {
+    width: 80px;
+    height: 30px;
+    margin-top: 5px;
+    border-color: transparent;
+}
+
+.main {
+    border: 4px solid black;
+    border-color: transparent;
+    border-radius: 50%;
+    background-color: orange;
+    width: 40px;
+    height: 40px;
+}
+
+.circle1 {
+    border: 4px solid white;
+    border-radius: 50%;
+    background-color: rgb(19, 74, 142);
+    margin-left: 7px;
+    margin-top: 3px;
+    width: 20px;
+    height: 20px;
+}
+
+.line {
+    border-left: 5px solid white;
+    transform: rotate(40deg);
+    height: 11px;
+    margin-top: 1px;
+    margin-left: 5px;
+}
+
+.sec1 {
+    height: 600px;
+}
+
+.img {
+    height: 500px;
+}
+
+.circle1 {
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+}
+
+.btn2 {
+    width: 250px;
+    height: 50px;
+    color: white;
+    border-radius: 3px;
+    border-color: transparent;
+    background-color: rgb(238, 99, 7);
+}
+
+.section2 {
+    text-align: center;
+    position: relative;
+    height: 300px;
+    margin-top: -450px;
+}
+
+.service {
+    border: 2px solid transparent;
+    background-color: rgb(13, 93, 158);
+    margin-left: 650px;
+    margin-top: -60px;
+    width: 120px;
+    height: 30px;
+    position: relative;
+}
+
+.service p {
+    font-size: smaller;
+    color: white;
+    padding-top: 4px;
+    text-align: center;
+}
+
+.section3 {
+    height: 300px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.main1,
+.main2,
+.main3,
+.main4 {
+    margin-left: 100px;
+}
+
+.main1 {
+    border: 2px solid black;
+    border-color: transparent;
+    background-color: rgb(13, 93, 158);
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+}
+
+.lap1 {
+    border: 4px solid white;
+    background-color: rgb(32, 115, 182);
+    border-radius: 2px;
+    border-bottom: 0px;
+    margin-left: 7px;
+    height: 30px;
+    width: 50px;
+}
+
+.lap2 {
+    border: 3px solid white;
+    margin-top: -1px;
+    margin-left: 1.5px;
+    border-radius: 4px;
+    width: 60px;
+    height: 2px;
+}
+
+.laptop {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.main2 {
+    border: 4px solid black;
+    border-color: transparent;
+    border-radius: 50%;
+    background-color: rgb(19, 74, 142);
+    width: 90px;
+    height: 90px;
+}
+
+.circle2 {
+    border: 7px solid white;
+    border-radius: 50%;
+    background-color: rgb(74, 149, 241);
+    margin-left: 23px;
+    margin-top: 17px;
+    width: 40px;
+    height: 40px;
+}
+
+.line2 {
+    border-left: 8px solid white;
+    transform: rotate(45deg);
+    border-radius: 3px;
+    height: 18px;
+    margin-top: 14px;
+    margin-left: 12px;
+}
+
+.main3 {
+    border: 2px solid transparent;
+    background-color: rgb(19, 74, 142);
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+}
+
+.basket {
+    border-top: 25px solid whitesmoke;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    margin-left: 15px;
+    margin-top: 35px;
+    height: 0;
+    width: 65px;
+}
+
+.circle3 {
+    border: 3px solid whitesmoke;
+    margin-top: -12px;
+    margin-left: 60px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    background-color: rgb(19, 74, 142);
+}
+
+.circle3 h6 {
+    color: whitesmoke;
+    margin-left: 1px;
+}
+
+.line3 {
+    border-left: 6px solid whitesmoke;
+    transform: rotate(-32deg);
+    margin-top: -50px;
+    margin-left: 9px;
+    height: 8px;
+}
+
+.line4 {
+    border-top: 6px solid whitesmoke;
+    border-radius: 4px;
+    margin-top: 10.1px;
+    width: 15px;
+    margin-left: 4.5px;
+}
+
+.circle4 {
+    border: 2px solid transparent;
+    background-color: whitesmoke;
+    margin-left: 29px;
+    margin-top: 19px;
+    border-radius: 50%;
+    width: 11px;
+    height: 11px;
+}
+
+.circle5 {
+    border: 2px solid transparent;
+    background-color: whitesmoke;
+    margin-left: 53px;
+    margin-top: -11px;
+    border-radius: 50%;
+    width: 11px;
+    height: 11px;
+}
+
+.basket h1 {
+    color: rgb(19, 74, 142);
+    margin-top: -42px;
+
+}
+
+.main4 {
+    border: 2px solid transparent;
+    background-color: rgb(19, 74, 142);
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+}
+
+.line8 {
+    border: 2px solid transparent;
+    background-color: rgb(102, 156, 223);
+    margin-left: 10px;
+    margin-top: 25px;
+    width: 15px;
+    height: 35px;
+}
+
+.fing1 {
+    border: 2px solid transparent;
+    background-color: white;
+    border-radius: 3px;
+    margin-left: 24px;
+    margin-top: -32px;
+    width: 30px;
+    height: 30px;
+}
+
+.fing2 {
+    border: 2px solid transparent;
+    background-color: white;
+    margin-left: 45px;
+    margin-top: -30px;
+    width: 15px;
+    height: 7px;
+    border-radius: 3px;
+}
+
+.fing3 {
+    border: 2px solid transparent;
+    background-color: white;
+    margin-left: 45px;
+    margin-top: 1px;
+    width: 15px;
+    height: 7px;
+    border-radius: 3px;
+}
+
+.fing4 {
+    border: 2px solid transparent;
+    background-color: white;
+    margin-left: 45px;
+    margin-top: 1px;
+    width: 15px;
+    height: 7px;
+    border-radius: 3px;
+}
+
+.fing5 {
+    border: 2px solid transparent;
+    background-color: white;
+    margin-left: 45px;
+    margin-top: 1px;
+    width: 15px;
+    height: 6px;
+    border-radius: 3px;
+}
+
+.fing6 {
+    border: 2px solid transparent;
+    background-color: white;
+    transform: rotate(45deg);
+    margin-left: 35px;
+    margin-top: -43px;
+    width: 10px;
+    height: 25px;
+    border-radius: 3px;
+}
+
+.fing7 {
+    border: 2px solid transparent;
+    background-color: white;
+    transform: rotate(105deg);
+    margin-top: -25px;
+    margin-left: 40px;
+    border-radius: 8px;
+    width: 13px;
+    height: 10px;
+}
+
+.thumbsup {
+    margin-left: 6px;
+}
+
+.section4 {
+    height: 500px;
+    background-color: rgb(10, 19, 39);
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.container2 {
+    margin-top: 20px;
+}
+
+.more {
+    border: 2px solid black;
+    width: 120px;
+    height: 30px;
+    background-color: rgb(19, 74, 142);
+    margin-left: 1280px;
+    margin-top: -40px;
+}
+
+.more p {
+    font-size: small;
+    padding-top: 3px;
+    text-align: center;
+    color: white;
+}
+
+.box1 {
+    border: 10px solid whitesmoke;
+    background-color: rgb(105, 111, 117);
+    box-sizing: border-box;
+    width: 400px;
+    height: 250px;
+    margin-left: 20px;
+}
+
+.square2 {
+    border: 2px solid black;
+    margin-left: 110px;
+    background-color: whitesmoke;
+    border-color: transparent;
+    width: 60px;
+    height: 35px;
+    margin-top: 70px;
+    border-radius: 4px;
+}
+
+.circle6 {
+    border: 2px solid black;
+    background-color: rgb(105, 111, 117);
+    margin-left: 15px;
+    margin-top: 3px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}
+
+.circle7 {
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 3px;
+    margin-top: 3px;
+    width: 15px;
+    height: 15px;
+}
+
+.top1 {
+    border-left: 10px solid whitesmoke;
+    margin-top: -40px;
+    margin-left: 115px;
+    height: 10px;
+}
+
+.camera {
+    margin-left: 40px;
+    padding-top: 30px;
+}
+
+.box2 {
+    border: 2px solid white;
+    margin-left: 100px;
+    margin-top: 80px;
+    border-radius: 4px;
+    width: 170px;
+    height: 45px;
+}
+
+.eye {
+    width: 40px;
+    height: 40px;
+    margin-left: 7px;
+    border: solid 2px whitesmoke;
+    background-color: whitesmoke;
+    transform: rotate(45deg);
+    border-radius: 75% 15%;
+}
+
+.circle8 {
+    border: 2px solid black;
+    background-color: rgb(105, 111, 117);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-top: 7px;
+    margin-left: 8px;
+}
+
+.circle9 {
+    border: 2px solid black;
+    background-color: black;
+    width: 10px;
+    margin-top: 3px;
+    margin-left: 3px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.box1 h5 {
+    color: white;
+    margin-left: 70px;
+    margin-top: -34px;
+}
+
+.section5 {
+    height: 400px;
+    text-align: center;
+    padding: 25px;
+
+}
+
+.btn3 {
+    width: 80px;
+    height: 30px;
+    margin-left: 100px;
+    background-color: rgb(19, 74, 142);
+    border-color: transparent;
+    color: white;
+}
+
+.section5 h2,
+h5 {
+    color: rgb(19, 74, 142);
+}
+
+.section6 {
+    height: 400px;
+    text-align: center;
+}
+
+.box3 {
+    border: 2px solid transparent;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.para1 {
+    margin-top: -50px;
+    margin-left: 60px;
+}
+
+.section7 {
+    height: 600px;
+    background-color: rgb(26, 33, 42);
+    text-align: center;
+    padding-top: 40px;
+}
+
+.section7 p {
+    color: white;
+}
+
+.section7 h2 {
+    color: orange;
+}
+.section7 input
+{
+    width: 200px;
+    border-color: transparent;
+    height: 30px;
+    border-radius: 3px;
+}
+.btn4
+{
+    margin-top: 10px;
+    margin-left: 90px;
+    color: white;
+    border-radius: 3px;
+    border-color: transparent;
+    background-color: rgb(23, 23, 232);
+}
+.ph1
+{
+    border-top:13px solid rgb(23, 23, 232);
+    transform: rotate(-130deg);
+    border-bottom: 0px;
+    border-radius: 80%;
+    width:  60px;
+    height: 20px;
+}
+.ph2
+{
+    border: 2px solid transparent;
+    background-color:  rgb(23, 23, 232);
+    transform: rotate(45deg);
+    margin-top: -38px;
+    margin-left: 13px;
+    width: 13px;
+    height: 10px;
+}
+.ph3
+{
+    border: 2px solid transparent;
+    background-color:  rgb(23, 23, 232);
+    margin-left: 43px;
+    margin-top: 28px;
+    transform: rotate(50deg);
+    width: 13px;
+    height: 10px;
+}
+.ph4
+{
+    border-top: 2px solid rgb(23, 23, 232);
+    margin-top: -57px;
+    margin-left: 16px;
+    transform: rotate(-60deg);
+    width: 10px;
+}
+.ph5
+{
+    border-top: 2px solid rgb(23, 23, 232);
+    margin-top: 8px;
+    margin-left: 27px;
+    transform: rotate(-30deg);
+    width: 10px;
+}
+.ph6
+{
+    border-top: 2px solid rgb(23, 23, 232);
+    margin-top: -8px;
+    margin-left: 23px;
+    transform: rotate(-40deg);
+    width: 10px;
+}
+.phone
+{
+    transform: rotate(-10deg);
+    margin-top: 5px;
+} 
+.mobile
+{
+    margin-top: -40px;
+}
+.mob1
+{
+    border: 2px solid transparent;
+    background-color:rgb(23, 23, 232) ;
+    border-radius: 3px;
+    margin-top: 120px;
+    margin-left: 20px;
+    width: 40px ;
+    height: 60px;
+}
+.mob2
+{
+    border: 2px solid black;
+    background-color: black;
+    margin-left: 6px;
+    margin-top: 3px;
+    width: 25px;
+    height: 40px;
+}
+.mob3
+{
+    border: 2px solid transparent;
+    margin-left: 15px;
+    margin-top: 5px;
+    background-color: black;
+    border-radius: 50%;
+    width: 7px;
+    height: 7px;
+}
+.mob4
+{ 
+border: 3px solid rgb(23, 23, 232);
+background-color: black;
+margin-top: -63px;
+margin-left: 45px;
+border-radius: 3px;
+width: 30px;
+height: 17px;
+} 
+.mob5
+{
+    width: 0;
+	height: 0;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-top: 8px solid rgb(23, 23, 232);
+    margin-top: 11px;
+    margin-left: -6px;
+    transform: rotate(30deg);
+}
+.message
+{
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.msg1
+{
+    border: 2px solid rgb(23, 23, 232);
+    background-color: rgb(23, 23, 232);
+    border-radius: 3px;
+    width: 50px;
+    height: 30px;
+}
+.msg2
+{
+    border: 2px solid black;
+    transform: rotate(-45deg);
+    border-radius: 4px;
+    margin-left: 16px;
+    margin-top: -35px;
+    border-top: 10px;
+    border-right: 0px;
+    height: 20px;
+    width: 20px;
+}
+.msg3
+{
+    border-left: 1px solid black;
+    margin-top: 122px;
+    margin-left: -36px;
+    transform: rotate(45deg);
+    height: 10px;
+}
+.msg4
+{
+   border-left: 1px solid black;
+  transform: rotate(-45deg);
+    margin-top: 4px;
+    margin-left: 30px;
+    height: 10px;
+}
+.section7 h2{
+    margin-top: 20px;
+}
+.user-container {
+    display: flex;
+    justify-content: center; /* Center the images horizontally */
+    align-items: center; /* Center the images vertically */
+    margin-bottom: 20px; /* Add some spacing between the images and the text */
+}
+
+.user-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.user-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.user {
+    margin: 0 10px;
+    background-color: #ccc; 
+    margin-top: 100px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden; 
+    opacity: 0.5;
+}
+
+#testimonialControls {
+    display: flex;
+    justify-content: center;
+    margin-top: 180px;
+}
+
+.control {
+    display: inline-block;
+    width: 30px;
+    height: 4px;
+    background-color: #333;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+#testimonialText {
+    text-align: center;
+
+}
+#testimonialText1 {
+    text-align: center;
+    margin-top: -200px;
+ 
+ 
+}
+
+
