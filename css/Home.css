@@ -715,9 +715,9 @@ height: 17px;
 }
 .user-container {
     display: flex;
-    justify-content: center; /* Center the images horizontally */
-    align-items: center; /* Center the images vertically */
-    margin-bottom: 20px; /* Add some spacing between the images and the text */
+    justify-content: center;
+    align-items: center; 
+    margin-bottom: 20px; 
 }
 
 .user-container {
